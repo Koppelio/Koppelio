@@ -12,8 +12,6 @@
 ---
 
 ### 📊 Статистика GitHub:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Koppelio&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a" alt="GitHub Stats" />
-</p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koppelio&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a)
 ---
