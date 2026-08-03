@@ -19,3 +19,15 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Koppelio?style=social)](https://github.com/Koppelio)
 ---
+
+### 📈 Дополнительная статистика:
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Koppelio&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koppelio&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a" alt="Top Languages" />
+</p>
+
+---
