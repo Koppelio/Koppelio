@@ -13,5 +13,5 @@
 
 ### 📊 Статистика GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koppelio&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a)
+[![GitHub followers](https://img.shields.io/github/followers/Koppelio?style=social)](https://github.com/Koppelio)
 ---
