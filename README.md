@@ -1,16 +1,19 @@
-## Hi there 👋
+### Привет! Я начинающий разработчик 👋
 
-<!--
-**Koppelio/Koppelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я увлекаюсь программированием на **Python**, созданием полезных утилит, автоматизацией и разработкой приложений с графическим интерфейсом. Активно изучаю новые технологии и переношу свои проекты под контроль версий.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Стек технологий и инструменты:
+* **Языки:** Python
+* **Интерфейсы и GUI:** Flet, Tkinter
+* **Инструменты:** Git, GitHub, GitHub Desktop, VS Code, PyInstaller
+
+---
+
+### 📊 Статистика GitHub:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Koppelio&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a" alt="GitHub Stats" />
+</p>
+
+---
