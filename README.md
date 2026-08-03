@@ -22,7 +22,5 @@
 
 ### 📈 Дополнительная статистика:
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Koppelio&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Koppelio&color=blueviolet&style=flat-square)](https://github.com/Koppelio)
 ---
