@@ -25,9 +25,4 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Koppelio&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koppelio&theme=radical" alt="GitHub Stats Card" />
-</p>
-
 ---
